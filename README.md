@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31761773/README.md)
-## Projeto Integrador IV: Desenvolvimento de Sistemas Orientado a Dispositivos Móveis e Baseados na Web
+## Projeto Integrador V: Análise de Soluções Integradas Para Organizações 
 
 #### Integrantes:
 
