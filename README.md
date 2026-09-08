@@ -84,7 +84,7 @@ Antes de executar o projeto, instale:
 
 ## Clonar o Projeto
 
-    git clone https://github.com/MikaelSouz/daycare-app.git
+    git clone https://github.com/MikaelSouz/daycare.git
 
 ---
 
